@@ -5,6 +5,8 @@
 	<strong>价值源自分享</strong>
 </p>
 
+
+
 <p align="center">
 	<a target="_blank" href="https://search.maven.org/search?q=ms-mcms">
         <img src="https://img.shields.io/maven-central/v/net.mingsoft/ms-mcms.svg?label=Maven%20Central" />

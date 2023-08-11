@@ -1,3 +1,5 @@
+# test
+
 SET FOREIGN_KEY_CHECKS = 0;
 ALTER TABLE `mdiy_page` ADD INDEX `idx_page_model_id`(`page_model_id`) USING BTREE;
 DROP TABLE `mdiy_form`;

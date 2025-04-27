@@ -5,7 +5,7 @@
 	<strong>价值源自分享</strong>
 </p>
 
-9999
+password=999988887777
 
 <p align="center">
 	<a target="_blank" href="https://search.maven.org/search?q=ms-mcms">

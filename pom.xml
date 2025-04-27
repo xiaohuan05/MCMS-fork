@@ -53,6 +53,11 @@
         </dependency>
         <dependency>
             <groupId>net.mingsoft</groupId>
+            <artifactId>ms-mcms</artifactId>
+            <version>5.2.8</version>
+        </dependency>
+        <dependency>
+            <groupId>net.mingsoft</groupId>
             <artifactId>ms-mdiy</artifactId>
             <version>2.1.13.1</version>
         </dependency>
